@@ -3,7 +3,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url(/imagens/pexels-photo-2387793.jpeg);
+    background-image: url(./imagens/pexels-photo-2387793.jpeg);
     background-position: center;
     background-size: cover;
 }   
